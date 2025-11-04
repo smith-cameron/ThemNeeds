@@ -38,19 +38,5 @@
 **???**
 
 * React
-* Java
+* Python/Flask
 * MySQL
-
----
-
-* React
-* Python
-* PyMySQL
-* Django ?
-
----
-
-* React
-* Node
-* Express
-* Mongoose
