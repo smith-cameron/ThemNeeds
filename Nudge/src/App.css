@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.emph{
+    color: #e63946;
+    font-weight: bold;
+    /* background-color: #f1faee; */
+    padding: 0 4px;
+    font-size: 25px;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
